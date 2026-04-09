@@ -4,7 +4,7 @@ I'm a graduate student at the University of Oxford, working with AI for the envi
 I hold a MSci in Quantitative Climate and Environmental Sciences and  BA in Natural Sciences from the University of Cambridge. </br>
 Outside of research, I like travelling with a camera and spend a lot of time in rowing boats. </br>
 My most used languages:</br>
-![Lang](https://ghstats.dev/api/langs?username=louis-de-neve&border_radius=4&hide_border=true&&hide_title=true&max_langs=9)</br>
+![Lang](https://ghstats.dev/api/langs?username=louis-de-neve&border_radius=4&hide_border=true&&hide_title=true&max_langs=9&hide=jupyter%20notebook)</br>
 [![ORCiD](https://img.shields.io/badge/ORCiD-7DBE31?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7974-8534)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lfcd2@cantab.ac.uk)
 [![Website](https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white)](https://louisdeneve.com)
