@@ -17,4 +17,4 @@ Outside of research, I like travelling with a camera and spend a lot of time in 
 [![GitHub](https://img.shields.io/badge/GitHub-louis--de--neve-181717?logo=github&logoColor=white)](https://github.com/louis-de-neve)
 [![Email](https://img.shields.io/badge/Email-lfcd2%40cantab.ac.uk-D14836?logo=gmail&logoColor=white)](mailto:lfcd2@cantab.ac.uk)
 [![ORCiD](https://img.shields.io/badge/ORCiD-7DBE31?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7974-8534)
-[![Website](https://img.shields.io/badge/Website-4caf50?logo=google-chrome&logoColor=white)](https://louisdeneve.com)
+[![Website](https://img.shields.io/badge/Website-grey?logo=google-chrome&logoColor=white)](https://louisdeneve.com)
